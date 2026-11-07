@@ -53,7 +53,7 @@ const config = {
             'https://github.com/NAVEEN-NEELAM/neelamtp-dot/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,
@@ -135,10 +135,7 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+            
               {
                 label: 'GitHub',
                 href: 'https://github.com/NAVEEN-NEELAM/neelamtp-dot',
