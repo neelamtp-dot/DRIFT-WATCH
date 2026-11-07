@@ -8,7 +8,7 @@ description: New features, improvements, fixes, and breaking changes in each Dri
 # Driftwatch Release Notes
 
 This page lists changes in each Driftwatch CLI release, newest first.
-To upgrade, see the [Installation Guide](installation.md#upgrade-driftwatch).
+To upgrade, see the [Installation Guide](/tutorial-basics/installation-guide.md#upgrade-driftwatch).
 
 :::note
 Driftwatch follows [semantic versioning](https://semver.org). Minor versions
@@ -59,7 +59,7 @@ deprecation notice says otherwise.
 ### New
 
 - Added `driftwatch doctor` to diagnose installation and connectivity
-  problems. See [`doctor`](cli-reference.md#driftwatch-doctor).
+  problems. See [`doctor`](/tutorial-basics/cli-command-reference.md#driftwatch-doctor).
 - Added the `--target` option to `driftwatch scan`. Use it to limit a scan to
   one or more resource types, for example `--target aws_s3_bucket`.
 - Added `driftwatch ignore` to create and manage ignore rules. Rules are
@@ -142,7 +142,7 @@ or upgrade Terraform first.
 | Issue | Affects | Workaround |
 |---|---|---|
 | Scans of accounts with more than 5,000 resources can exceed 10 minutes | 2.4.0 and later | Use `--target` to scan resource types separately |
-| `driftwatch doctor` reports a false network warning behind some proxies | 2.4.0 and later | Set `HTTPS_PROXY` as described in the [Installation Guide](installation.md#use-a-proxy) |
+| `driftwatch doctor` reports a false network warning behind some proxies | 2.4.0 and later | Set `HTTPS_PROXY` as described in the [Installation Guide](/tutorial-basics/installation-guide.md#use-a-proxy) |
 
 ## Support policy
 

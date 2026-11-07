@@ -15,7 +15,7 @@ to verify, upgrade, and remove it.
 
 :::tip
 If you only want to try Driftwatch quickly, follow the
-[Quick Start Guide](quick-start.md) instead.
+[Quick Start Guide](quick-start-guide.md) instead.
 :::
 
 ## System requirements
@@ -197,7 +197,7 @@ Expected output:
 ```
 
 The warning is expected on a fresh install. Continue with
-[authentication](quick-start.md#step-2-authenticate).
+[authentication](quick-start-guide.md#step-2-authenticate).
 
 ## Configure the CLI
 

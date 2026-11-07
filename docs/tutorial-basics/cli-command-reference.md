@@ -196,7 +196,7 @@ Scan complete: 42 resources checked
 ```
 
 For a description of each symbol, see
-[Read the report](quick-start.md#step-5-read-the-report).
+[Read the report](quick-start-guide.md#step-5-read-the-report).
 
 ---
 
@@ -358,6 +358,6 @@ Use exit codes to control CI pipelines and scripts.
 
 ## Related topics
 
-- [Quick Start Guide](quick-start.md)
-- [Installation Guide](installation.md)
-- [Release Notes](release-notes.md)
+- [Quick Start Guide](quick-start-guide.md)
+- [Installation Guide](installation-guide.md)
+- [Release Notes](/tutorial-extras/release-notes.md)
