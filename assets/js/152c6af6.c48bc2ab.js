@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdrift_watch=self.webpackChunkdrift_watch||[]).push([["440"],{6645(t){t.exports=JSON.parse('{"metadata":{"permalink":"/DRIFT-WATCH/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdrift_watch=self.webpackChunkdrift_watch||[]).push([["220"],{1912(t){t.exports=JSON.parse('{"blogBasePath":"/DRIFT-WATCH/blog","blogTitle":"Blog","authorsListPath":"/DRIFT-WATCH/blog/authors"}')}}]);
